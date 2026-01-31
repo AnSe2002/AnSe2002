@@ -15,7 +15,7 @@ I'm passionate about data analysis, machine learning, and building insightful so
 
 | Position / Role | Organization / Institution | Description |
 |---|---|---|
-| Data Analyst | Freelance Digital | Responsibilities: Technical and business analytics, market research, audience analysis, customer development (CustDev), collecting and analyzing key metrics. |
+| Analyst | Freelance Digital | Responsibilities: Technical and business analytics, market research, audience analysis, customer development (CustDev), collecting and analyzing key metrics. |
 | Database Administrator | FGANU CITiS | Responsibilities: Database management, preparing analytical documentation, automating statistical exports via Python and macros, optimizing SQL queries, bug fixes. |
 | Graduate Student - Data Analyst Track | Moscow City University | Studying advanced analytics, machine learning models (like Logistic Regression, Random Forest, etc.), and data interpretation techniques. |
 
@@ -28,9 +28,16 @@ I'm passionate about data analysis, machine learning, and building insightful so
 | **Programming** | Python, SQL, Git                                                         |
 | **Databases** | PostgreSQL, MySQL, MongoDB                                          |
 | **Big Data** | Apache Spark, Apache Hadoop                                         |
+| **ETL & Workflow Management** | Pentaho, Airflow |
+| **Analytics** | 1C, Loginom |
+| **Process & Simulation Modeling** | AnyLogic |
+| **Containerization** | Docker |
 | **Data Science & ML** | Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly, Machine Learning |
 | **Visualization** | Power BI, Excel, Data Visualization                                 |
-| **Process & Modeling** | Process Modeling                                                    |
+
+</details>
+
+---
 
 </details>
 
@@ -59,9 +66,12 @@ I'm passionate about data analysis, machine learning, and building insightful so
 | **Программирование**       | Python, SQL, Git                                                         |
 | **Базы данных**            | PostgreSQL, MySQL, MongoDB                                          |
 | **Большие данные**   | Apache Spark, Apache Hadoop                                         |
+| **ETL и управление рабочими процессами** | Pentaho, Airflow |
+| **Бизнес-аналитика** | 1C, Loginom |
+| **Моделирование процессов и симуляция** | AnyLogic |
+| **Контейнеризация** | Docker |
 | **Наука о данных & ML**    | Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly, Машинное Обучение |
 | **Визуализация**           | Power BI, Excel, Визуализация данных                                |
-| **Процессы & Моделирование** | Моделирование процессов                                            |
 
 </details>
 
